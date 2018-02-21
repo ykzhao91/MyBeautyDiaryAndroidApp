@@ -10,9 +10,18 @@ Then I was thinking why there is not an app that integrates the information I ne
 
 As for the app, there should be several functions as listed below:
 • Get inspiration for new makeup looks and hairstyle
+
 • Learn how to create a look with step-by-step video tutorials
+
 • Discover the latest beauty tips, tricks, and trends
+
 • Find ratings and introduction for all kinds of beauty products
+
 In this way, the app can become a daily look helper for the user. You can browse the new beauty related blogs whenever you have time. Your inspiration would come right away for a totally refreshing new look!
 
 ![ui](https://user-images.githubusercontent.com/36559714/36507191-d6286fb0-170d-11e8-9f22-7c32d8393b3f.png)
+
+Temboo made my life a lot easier, since it provides all kinds of library in its SDK, and somehow uniform the way to make API request. And it will return you a response in JSON format.I ended up in three APIs from Temboo, Tumblr, Ebay and YouTube.
+
+Selected Screens Below:
+![prototype](https://user-images.githubusercontent.com/36559714/36507866-cfb61a40-170f-11e8-86ec-0f5e00d4b291.png)
