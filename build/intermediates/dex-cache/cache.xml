@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/body7/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-32d6744b392ca5cabae7473ed3f7226ccb232877.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/classes-999c3c7cbc5a27c810917129f8d5454d65455fcf.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-639c8b530496231ac39ef91a289a97e6d46b08bd.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/temboo-android-sdk-core-2.6.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="89b25d4bced3aa2d8b54a3b7ff3c15a81a60dc78">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/temboo-android-sdk-core-2.6.0-66821a826c6d91619a5834de80090105586c2278.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5a5054b980c6783a8854da03cf5dad67cdca6dd2.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/eBay-2.6.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="44db60558c703f02e9d4186e515387c71651e969">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/eBay-2.6.0-bb319f6fb3aaf2be776b08aa81dcc4fe0a2d993c.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/volley.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/volley-bec315d11fa77869f86202fd437c713c62412476.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/Tumblr-2.6.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2048e62ee018f9b0528b106ae7258cefca60fe92">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/Tumblr-2.6.0-e20617b136e8ba05a902173343f9c773971bad08.jar" />
+    </item>
+    <item
+        jar="/Users/body7/Development/FragmentDemo/app/Libs/YouTube-2.6.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="e8bd7f3330b2be4c43922579f32f654f41453bdb">
+        <dex dex="/Users/body7/Development/FragmentDemo/app/build/intermediates/pre-dexed/debug/YouTube-2.6.0-d3da2866efcf2df05d652055b7e0ea87a697f34b.jar" />
+    </item>
+
+</items>

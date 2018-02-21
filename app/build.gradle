@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 14
+    buildToolsVersion "21.0.0"
+
+    defaultConfig {
+        applicationId "com.example.fragmentdemo"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    compile files('Libs/temboo-android-sdk-core-2.6.0.jar')
+    compile files('Libs/YouTube-2.6.0.jar')
+    compile files('Libs/volley.jar')
+    compile files('Libs/YouTubeAndroidPlayerApi.jar')
+    compile files('Libs/Tumblr-2.6.0.jar')
+    compile files('Libs/eBay-2.6.0.jar')
+}
